@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DLabs App checker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_check">Check manually</string>
+
+    <string name="main_no_data">No data (yet)</string>
+
+    <string name="awsservice_title">New apk: </string>
+    <string name="awsservice_downloading">Downloading...</string>
+    <string name="checking_updates">Checking for updates</string>
+    <string name="download_in_progress">Download in progress</string>
+
+</resources>
